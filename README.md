@@ -38,11 +38,11 @@ I build fast, minimal tools and learn systems from first principles:
 | **acegrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Python • LangChain • LLMs |
 
 **Quick links**
-- 🔦 HSDT-Lightning → [https://github.com/Kyaw-Thiha/hsdt-lightning](https://github.com/Kyaw-Thiha/hsdt-lightning)  
-- 🌈 hsi-viz → https://github.com/2192375d/hsi-viz  
-- 🧩 ros-workspace → https://github.com/2192375d/ros-workspace  
-- 🤝 UTRAHacks website → https://github.com/2192375d/utrahacks-website  
-- 📝 acegrader → https://github.com/2192375d/acegrader  
+- 🔦 HSDT-Lightning → https://github.com/Kyaw-Thiha/hsdt-lightning
+- 🌈 HSI-Viz → https://github.com/Kyaw-Thiha/hsi-viz  
+- 🧩 Ros-Workspace → https://github.com/Kyaw-Thiha/ros-workspace  
+- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/utrahacks-website 
+- 📝 AceGrader → https://github.com/Kyaw-Thiha/ace-grader  
 
 ---
 
