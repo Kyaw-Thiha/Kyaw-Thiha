@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/2192375d">
-    <img src="https://readme-typing-svg.demolab.com?duration=2800&pause=600&center=true&vCenter=true&height=40&lines=Kevin+@+Kyaw+Thiha+%E2%80%A2+UTSC+CS;Robotics+%2F+CV+%2F+ML;Neovim+%7C+Arch+Linux+%7C+ROS2" alt="Typing header">
+    <img src="https://readme-typing-svg.demolab.com?duration=2800&pause=600&center=true&vCenter=true&height=40&lines=Kevin+@+Kyaw+Thiha+%E2%80%A2+UTSC+CS;Robotics+%2F+CV+%2F+ML;Neovim+%7C+Arch+Linux+%7C+Hyprland" alt="Typing header">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 👋 Hey — I’m Simon (aka *Lumiere*)
+### 👋 Hey — I’m Kevin (aka *Kyaw Thiha*)
 I build fast, minimal tools and learn systems from first principles:
 - 🤖 ROS2 + robotics workflows
 - 🧠 Computer vision / ML experimentation
