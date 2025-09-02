@@ -73,8 +73,8 @@ I build fast, minimal tools and learn systems from first principles:
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Kyaw-Thiha&show_icons=true&hide_title=true" alt="GitHub Stats" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Thiha&layout=compact" alt="Top Langs" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=kyaw-thiha&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaw-thiha&layout=compact" alt="Top Langs" height="140" />
 
 <!-- Streak -->
 <br />
