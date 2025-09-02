@@ -34,14 +34,14 @@ I build fast, minimal tools and learn systems from first principles:
 | **HSDT-Lightning** | PyTorch Lightning re-implementation of the HSDT hyperspectral denoising model, plus a CNN baseline for comparison. | PyTorch • Lightning • HSI |
 | **hsi-viz** | CLI toolbox to visualize hyperspectral images: band picking, false-color composites, PCA previews, spectra plots. | Python • Click/Argparse • NumPy |
 | **ros-workspace** | ROS workspace container tuned for Neovim, Zsh, and Hyprland; batteries-included dev UX. | Docker • ROS2 • Neovim • Zsh |
-| **UTRAHacks website** | Main site for the UTRA Hacks event (University of Toronto Robotics Association). | React • Firebase/Hosting |
-| **acegrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Python • LangChain • LLMs |
+| **UTRAHacks website** | Main site for the UTRA Hacks event (University of Toronto Robotics Association). | React • Next.js |
+| **acegrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Django • Next.js • LangChain • LLMs |
 
 **Quick links**
 - 🔦 HSDT-Lightning → https://github.com/Kyaw-Thiha/hsdt-lightning
 - 🌈 HSI-Viz → https://github.com/Kyaw-Thiha/hsi-viz  
 - 🧩 Ros-Workspace → https://github.com/Kyaw-Thiha/ros-workspace  
-- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/utrahacks-website 
+- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website 
 - 📝 AceGrader → https://github.com/Kyaw-Thiha/ace-grader  
 
 ---
@@ -49,19 +49,19 @@ I build fast, minimal tools and learn systems from first principles:
 ### 📌 Featured Cards
 <p align="center">
   <!-- If a card says 'repo not found', adjust the repo slug below -->
-  <a href="https://github.com/2192375d/hsdt-lightning">
+  <a href="https://github.com/Kyaw-Thiha/hsdt-lightning">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=hsdt-lightning" />
   </a>
-  <a href="https://github.com/2192375d/hsi-viz">
+  <a href="https://github.com/Kyaw-Thiha/hsi-viz">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=hsi-viz" />
   </a>
-  <a href="https://github.com/2192375d/ros-workspace">
+  <a href="https://github.com/Kyaw-Thiha/ros-workspace">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=ros-workspace" />
   </a>
-  <a href="https://github.com/2192375d/utrahacks-website">
+  <a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=utrahacks-website" />
   </a>
-  <a href="https://github.com/2192375d/acegrader">
+  <a href="https://github.com/Kyaw-Thiha/ace-grader">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=acegrader" />
   </a>
 </p>
@@ -73,20 +73,20 @@ I build fast, minimal tools and learn systems from first principles:
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=2192375d&show_icons=true&hide_title=true" alt="GitHub Stats" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2192375d&layout=compact" alt="Top Langs" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kyaw-Thiha&show_icons=true&hide_title=true" alt="GitHub Stats" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Thiha&layout=compact" alt="Top Langs" height="140" />
 
 <!-- Streak -->
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=2192375d" alt="GitHub Streak" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaw-Thiha" alt="GitHub Streak" height="160" />
 
 <!-- Activity Graph -->
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2192375d&radius=8" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&radius=8" alt="Activity Graph" />
 
 <!-- Contribution Snake (enable via workflow below) -->
 <br />
-<img src="https://raw.githubusercontent.com/2192375d/2192375d/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Kyaw-Thiha/2192375d/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
