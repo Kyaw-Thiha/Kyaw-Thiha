@@ -48,22 +48,30 @@ I build fast, minimal tools and learn systems from first principles:
 
 ### 📌 Featured Cards
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Kyaw-Thiha/hsdt-lightning">
-<!--     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsdt-lightning" /> -->
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsdt-lightning&layout=compact" />
+     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsdt-lightning&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/hsi-viz">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsi-viz" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsi-viz&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ros-workspace">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ros-workspace" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ros-workspace&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=US3RN-testing" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=US3RN-testing&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ace-grader">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ace-grader" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ace-grader&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
 
 ---
