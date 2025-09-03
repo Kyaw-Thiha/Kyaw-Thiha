@@ -1,36 +1,49 @@
 name: Generate Snake
 
 on:
-  # Run automatically every day
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual trigger
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:
+
+# ✅ allow committing back to the repo
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare output folder
+        run: mkdir -p output
 
       - name: Generate snake SVG
         uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: Kyaw-Thiha
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg
           args: >
             --color_snake=#00ffaa
             --color_dots=#0d1117,#00ffaa,#ff79c6,#f1fa8c
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated files
+      # 🔍 sanity check so you see the files in the logs
+      - name: List generated files
+        run: |
+          echo "PWD=$(pwd)"
+          ls -la output || true
+
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "chore: update snake"
-          add: "dist/*.svg"
+          add: "output/*.svg"
