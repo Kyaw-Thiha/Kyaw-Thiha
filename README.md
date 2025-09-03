@@ -19,7 +19,8 @@
 ---
 
 ### 👋 Hey — I’m Kevin (aka *Kyaw Thiha*)
-I build fast, minimal tools and learn systems from first principles:
+I do cool projects. Wanna know more? <br/>
+Feel free to explore around!
 - 🤖 ROS2 + robotics workflows
 - 🧠 Computer vision / ML experimentation
 - 🛠️ Low-level C/C++ / PyTorch
