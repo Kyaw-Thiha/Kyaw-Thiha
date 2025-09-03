@@ -2,10 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at 00:00 UTC
+    - cron: "0 0 * * *"       # daily at 00:00 UTC
   workflow_dispatch:
 
-# ✅ allow committing back to the repo
+# ✅ allow pushing commits
 permissions:
   contents: write
 
@@ -21,10 +21,9 @@ jobs:
       - name: Prepare output folder
         run: mkdir -p output
 
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Use the svg-only flavor (writes files deterministically)
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kyaw-Thiha
           outputs: |
@@ -33,12 +32,20 @@ jobs:
           args: >
             --color_snake=#00ffaa
             --color_dots=#0d1117,#00ffaa,#ff79c6,#f1fa8c
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔍 sanity check so you see the files in the logs
+      # 🔍 Prove files exist
       - name: List generated files
         run: |
           echo "PWD=$(pwd)"
           ls -la output || true
+
+      # ⛔️ Hard fail if files missing (clear signal)
+      - name: Ensure files exist
+        run: |
+          test -f output/github-contribution-grid-snake.svg
+          test -f output/github-contribution-grid-snake-dark.svg
 
       - name: Commit generated files
         uses: EndBug/add-and-commit@v9
