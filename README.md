@@ -82,11 +82,10 @@ Feel free to explore around!
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kyaw-thiha&show_icons=true&hide_title=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kyaw-thiha&show_icons=true&hide_title=true" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaw-thiha&layout=compact" alt="Top Langs" height="140" />
 
 <!-- Streak -->
-<br />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaw-Thiha" alt="GitHub Streak" height="160" />
 
 <!-- Activity Graph -->
