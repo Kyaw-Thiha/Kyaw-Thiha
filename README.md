@@ -59,10 +59,10 @@ I build fast, minimal tools and learn systems from first principles:
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ros-workspace" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=utrahacks-website" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=UTRAHacks-2025-Website" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ace-grader">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=acegrader" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ace-grader" />
   </a>
 </p>
 
