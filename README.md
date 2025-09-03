@@ -50,19 +50,19 @@ I build fast, minimal tools and learn systems from first principles:
 <p align="center">
   <!-- If a card says 'repo not found', adjust the repo slug below -->
   <a href="https://github.com/Kyaw-Thiha/hsdt-lightning">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=hsdt-lightning" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsdt-lightning" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/hsi-viz">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=hsi-viz" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsi-viz" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ros-workspace">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=ros-workspace" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ros-workspace" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=utrahacks-website" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=utrahacks-website" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ace-grader">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=2192375d&repo=acegrader" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=acegrader" />
   </a>
 </p>
 
