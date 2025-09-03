@@ -97,9 +97,8 @@ I build fast, minimal tools and learn systems from first principles:
 <!-- <img src="https://raw.githubusercontent.com/Kyaw-Thiha/2192375d/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kyaw-Thiha/2192375d/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Kyaw-Thiha/2192375d/main/dist/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Snake" />
 </p>
-
 </div>
 
 ---
