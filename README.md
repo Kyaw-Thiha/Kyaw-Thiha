@@ -83,14 +83,27 @@ Feel free to explore around!
 
 <!-- GitHub Readme Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=kyaw-thiha&show_icons=true&hide_title=true" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaw-thiha&layout=compact" alt="Top Langs" height="140" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaw-thiha&layout=compact" alt="Top Langs" height="140" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaw-Thiha" alt="GitHub Streak" height="160" />
+</div>
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaw-Thiha" alt="GitHub Streak" height="160" />
 
 <!-- Activity Graph -->
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&radius=8" alt="Activity Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&bg_color=00000000&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=8&hide_border=true" />
+</picture>
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=tokyo-night&radius=8&hide_border=true" alt="Activity Graph" />-->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=rogue&radius=10&hide_border=true" /> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=10&hide_border=true" /> -->
 
 <!-- Contribution Snake (enable via workflow below) -->
 <br />
