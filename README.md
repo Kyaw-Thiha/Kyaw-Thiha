@@ -27,26 +27,7 @@ Feel free to explore around!
 
 ---
 
-### 🚀 Project Highlights
-
-| Project | What it is | Tech |
-|---|---|---|
-| **HSDT-Lightning** | PyTorch Lightning re-implementation of the HSDT hyperspectral denoising model, plus a CNN baseline for comparison. | PyTorch • Lightning • HSI |
-| **hsi-viz** | CLI toolbox to visualize hyperspectral images: band picking, false-color composites, PCA previews, spectra plots. | Python • Click/Argparse • NumPy |
-| **ros-workspace** | ROS workspace container tuned for Neovim, Zsh, and Hyprland; batteries-included dev UX. | Docker • ROS2 • Neovim • Zsh |
-| **UTRAHacks website** | Main site for the UTRA Hacks event (University of Toronto Robotics Association). | React • Next.js |
-| **acegrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Django • Next.js • LangChain • LLMs |
-
-**Quick links**
-- 🔦 HSDT-Lightning → https://github.com/Kyaw-Thiha/hsdt-lightning
-- 🌈 HSI-Viz → https://github.com/Kyaw-Thiha/hsi-viz  
-- 🧩 Ros-Workspace → https://github.com/Kyaw-Thiha/ros-workspace  
-- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website 
-- 📝 AceGrader → https://github.com/Kyaw-Thiha/ace-grader  
-
----
-
-### 📌 Featured Cards
+### 📌 Featured Projects
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header"/>
 </p>
@@ -73,6 +54,28 @@ Feel free to explore around!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
+
+---
+
+### 🚀 Projects List
+
+| Project | What it is | Tech |
+|---|---|---|
+| **HSDT-Lightning** | PyTorch Lightning re-implementation of the HSDT hyperspectral denoising model, plus a CNN baseline for comparison. | PyTorch • Lightning • HSI |
+| **hsi-viz** | CLI toolbox to visualize hyperspectral images: band picking, false-color composites, PCA previews, spectra plots. | Python • Click/Argparse • NumPy |
+| **ros-workspace** | ROS workspace container tuned for Neovim, Zsh, and Hyprland; batteries-included dev UX. | Docker • ROS2 • Neovim • Zsh |
+| **UTRAHacks website** | Main site for the UTRA Hacks event (University of Toronto Robotics Association). | React • Next.js |
+| **AceGrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Django • Next.js • LangChain • LLMs |
+| **IIP website** | Main website for IIP international school | Astro.js • React.js |
+| **BookKay** | A web platform to help writers create e-books & publish them | Vue.js • Quasar |
+
+
+**Quick links**
+- 🔦 HSDT-Lightning → https://github.com/Kyaw-Thiha/hsdt-lightning
+- 🌈 HSI-Viz → https://github.com/Kyaw-Thiha/hsi-viz  
+- 🧩 Ros-Workspace → https://github.com/Kyaw-Thiha/ros-workspace  
+- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website 
+- 📝 AceGrader → https://github.com/Kyaw-Thiha/ace-grader  
 
 ---
 
