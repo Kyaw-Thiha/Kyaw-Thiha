@@ -82,37 +82,49 @@ Feel free to explore around!
 <div align="center">
 
 <!-- GitHub Readme Stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=kyaw-thiha&show_icons=true&hide_title=true" /> -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaw-thiha&layout=compact" alt="Top Langs" height="140" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kyaw-Thiha" alt="GitHub Streak" height="160" />
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="left" width="48%" style="border:none;">
+      <!-- Languages Stat -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaw-Thiha&layout=compact&theme=tokyonight&bg_color=00000000&title_color=c0caf5&text_color=a9b1d6&hide_border=true&border_radius=12"
+        alt="Top Langs" width="100%" />
+    </td> 
+    <!-- <td width="4%" style="border:none;"></td> -->
+    <td align="right" width="48%" style="border:none;">
+      <!-- Streak Stats -->
+      <img
+        src="https://streak-stats.demolab.com?user=Kyaw-Thiha&theme=tokyonight&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=a9b1d6&currStreakLabel=c0caf5&sideLabels=a9b1d6&hide_border=true&border_radius=12"
+        alt="GitHub Streak" width="100%" />
+    </td>  
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border:none; padding-top:12px;">
+      <!-- Activity Graph -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&bg_color=00000000&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
+        <img alt="Activity Graph"
+             src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=8&hide_border=true" width="100%" />
+      </picture>
+      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=tokyo-night&radius=8&hide_border=true" alt="Activity Graph" />-->
+      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=rogue&radius=10&hide_border=true" /> -->
+      <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=10&hide_border=true" /> -->
+    </td>
+  </tr>
+</table>
 
 
-<!-- Activity Graph -->
-<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&bg_color=00000000&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&radius=12" />
-  <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=8&hide_border=true" />
-</picture>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=tokyo-night&radius=8&hide_border=true" alt="Activity Graph" />-->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=rogue&radius=10&hide_border=true" /> -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyaw-Thiha&theme=xcode&radius=10&hide_border=true" /> -->
+
 
 <!-- Contribution Snake (enable via workflow below) -->
-<br />
-<!-- <img src="https://raw.githubusercontent.com/Kyaw-Thiha/2192375d/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> -->
-
+<!-- <br />
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kyaw-Thiha/Kyaw-Thiha/main/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution Snake" />
 </p>
-</div>
+</div> -->
 
 ---
 
@@ -120,6 +132,6 @@ Feel free to explore around!
 `C` • `C++` • `Python` • `PyTorch` • `Lightning` • `LangChain` • `ROS2` • `Docker` • `Neovim` • `Godot` • `Zsh` • `Hyprland`
 
 <!-- Badges (optional)
-<img src="https://komarev.com/ghpvc/?username=2192375d" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=Kyaw-Thiha" alt="profile views">
 -->
 
