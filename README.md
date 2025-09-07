@@ -22,7 +22,6 @@ I do cool projects. Wanna know more? <br/>
 Feel free to explore around!
 - 🤖 ROS2 + robotics workflows
 - 🧠 Computer vision / ML experimentation
-- 🛠️ Low-level C/C++ / PyTorch
 - 🗒️ Neovim-centric dev environment on Arch + Hyprland
 
 ---
