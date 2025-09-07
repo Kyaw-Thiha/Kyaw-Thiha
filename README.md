@@ -1,10 +1,9 @@
 <!--
-  Profile README for github.com/2192375d
-  Tip: Pin these same repos in your profile sidebar for extra visibility.
+  Profile README for github.com/Kyaw-Thiha
 -->
 
 <p align="center">
-  <a href="https://github.com/2192375d">
+  <a href="https://github.com/Kyaw-Thiha">
     <img src="https://readme-typing-svg.demolab.com?duration=2800&pause=600&center=true&vCenter=true&height=40&lines=Kevin+@+Kyaw+Thiha+%E2%80%A2+UofT+CS;Robotics+%2F+CV+%2F+ML;Neovim+%7C+Arch+Linux+%7C+Hyprland" alt="Typing header">
   </a>
 </p>
@@ -129,7 +128,30 @@ Feel free to explore around!
 ---
 
 ### 🧩 Toolbox
-`C` • `C++` • `Python` • `PyTorch` • `Lightning` • `LangChain` • `ROS2` • `Docker` • `Neovim` • `Godot` • `Zsh` • `Hyprland`
+<div align="center">
+
+[![C](https://img.shields.io/badge/C-7aa2f7?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C%2B%2B-bb9af7?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
+[![Python](https://img.shields.io/badge/Python-c0caf5?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-e0af68?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/)
+[![NumPy](https://img.shields.io/badge/NumPy-7dcfff?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
+
+[![Lightning](https://img.shields.io/badge/Lightning%20AI-bb9af7?style=for-the-badge&logo=lightning&logoColor=white)](https://lightning.ai/docs/pytorch/stable/)
+[![ROS 2](https://img.shields.io/badge/ROS%202-9ece6a?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/rolling/)
+[![Docker](https://img.shields.io/badge/Docker-7aa2f7?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-c0caf5?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/docs/)
+[![Godot](https://img.shields.io/badge/Godot-c0caf5?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/)
+
+<!-- Extras I think you’ll like, based on your projects -->
+[![Neovim](https://img.shields.io/badge/Neovim-bb9af7?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/doc/)
+[![Git](https://img.shields.io/badge/Git-9ece6a?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-7aa2f7?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
+[![Zsh](https://img.shields.io/badge/Zsh-7dcfff?style=for-the-badge&logo=zsh&logoColor=white)](https://zsh.sourceforge.io/Doc/Release/)
+[![Hyprland](https://img.shields.io/badge/Hyprland-7aa2f7?style=for-the-badge&logo=wayland&logoColor=white)](https://wiki.hyprland.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-e0af68?style=for-the-badge&logo=archlinux&logoColor=white)](https://wiki.archlinux.org/)
+
+</div>
+
 
 <!-- Badges (optional)
 <img src="https://komarev.com/ghpvc/?username=Kyaw-Thiha" alt="profile views">
