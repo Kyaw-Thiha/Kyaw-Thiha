@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="#-project-highlights">Highlights</a> •
-  <a href="#-featured-cards">Featured</a> •
+  <a href="#-featured-projects">Highlights</a> •
+  <a href="#-projects-list">Projects</a> •
   <a href="#-stats--visuals">Stats</a> •
   <a href="#-toolbox">Toolbox</a>
 </p>
@@ -57,24 +57,107 @@ Feel free to explore around!
 ---
 
 ### 🚀 Projects List
+<table width="100%" border="0" cellspacing="0" cellpadding="6" style="border:none;">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">What it is</th>
+      <th align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- HSDT-Lightning -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/hsdt-lightning">HSDT-Lightning</a></strong></td>
+      <td>PyTorch Lightning re-implementation of the HSDT hyperspectral denoising model to execute DDP training.</td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Lightning-bb9af7?style=flat-square&logo=lightning&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HSI-c0caf5?style=flat-square"/>
+      </td>
+    </tr>
+    <!-- US3RN Testing -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/US3RN-testing">HSDT-Lightning</a></strong></td>
+      <td>Implementation of the US3RN model to carry out super resolution of hyperspectral image for FINCH satellite of UofT Aerospace Team. </td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HSI-c0caf5?style=flat-square"/>
+      </td>
+    </tr>
+    <!-- hsi-viz -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/hsi-viz">hsi-viz</a></strong></td>
+      <td>CLI toolbox to visualize hyperspectral images: band picking, false-color composites, PCA previews, spectra plots.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-c0caf5?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-7dcfff?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI-7aa2f7?style=flat-square"/>
+      </td>
+    </tr>
+    <!-- ros-workspace -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/ros-workspace">ros-workspace</a></strong></td>
+      <td>ROS workspace container tuned for Neovim, Zsh, and Hyprland; batteries-included dev UX.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-7aa2f7?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ROS%202-9ece6a?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Neovim-bb9af7?style=flat-square&logo=neovim&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zsh-7dcfff?style=flat-square&logo=zsh&logoColor=white"/>
+      </td>
+    </tr>
+    <!-- Autoronto Application -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/autoronto-onboarding">autoronto-onboarding</a></strong></td>
+      <td>
+        Application projects for UofT Autodrive team. Used various YOLO models for binary classification & 2D visualization, ROS for 3D visualization, and C++ for localization.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/ROS%202-9ece6a?style=flat-square&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-bb9af7?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-7aa2f7?style=flat-square&logo=cplusplus&logoColor=white"/>
+      </td>
+    </tr>
+    <!-- UTRAHacks website -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">UTRAHacks website</a></strong></td>
+      <td>Main site for the UTRA Hacks event (University of Toronto Robotics Association).</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-7aa2f7?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-bb9af7?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </td>
+    </tr>
+    <!-- AceGrader -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/ace-grader">AceGrader</a></strong></td>
+      <td>Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-9ece6a?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-bb9af7?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-c0caf5?style=flat-square"/>
+      </td>
+    </tr>
+    <!-- IIP Website -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/IIP_Website">IIP Website</a></strong></td>
+      <td>Main website for IIP International School.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Astro-7aa2f7?style=flat-square&logo=astro&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-bb9af7?style=flat-square&logo=react&logoColor=white"/>
+      </td>
+    </tr>
+    <!-- BookKay -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/BookKay">BookKay</a></strong> <!-- If the repo name differs, update this link --></td>
+      <td>A web platform to help writers create e-books & publish them.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Vue-7aa2f7?style=flat-square&logo=vuedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Quasar-bb9af7?style=flat-square&logo=quasar&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| Project | What it is | Tech |
-|---|---|---|
-| **HSDT-Lightning** | PyTorch Lightning re-implementation of the HSDT hyperspectral denoising model, plus a CNN baseline for comparison. | PyTorch • Lightning • HSI |
-| **hsi-viz** | CLI toolbox to visualize hyperspectral images: band picking, false-color composites, PCA previews, spectra plots. | Python • Click/Argparse • NumPy |
-| **ros-workspace** | ROS workspace container tuned for Neovim, Zsh, and Hyprland; batteries-included dev UX. | Docker • ROS2 • Neovim • Zsh |
-| **UTRAHacks website** | Main site for the UTRA Hacks event (University of Toronto Robotics Association). | React • Next.js |
-| **AceGrader** | Semi-automatic grading platform using LangChain; rubric prompts + assisted feedback. | Django • Next.js • LangChain • LLMs |
-| **IIP website** | Main website for IIP international school | Astro.js • React.js |
-| **BookKay** | A web platform to help writers create e-books & publish them | Vue.js • Quasar |
-
-
-**Quick links**
-- 🔦 HSDT-Lightning → https://github.com/Kyaw-Thiha/hsdt-lightning
-- 🌈 HSI-Viz → https://github.com/Kyaw-Thiha/hsi-viz  
-- 🧩 Ros-Workspace → https://github.com/Kyaw-Thiha/ros-workspace  
-- 🤝 UTRAHacks website → https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website 
-- 📝 AceGrader → https://github.com/Kyaw-Thiha/ace-grader  
 
 ---
 
