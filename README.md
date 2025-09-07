@@ -78,7 +78,7 @@ Feel free to explore around!
     </tr>
     <!-- US3RN Testing -->
     <tr>
-      <td><strong><a href="https://github.com/Kyaw-Thiha/US3RN-testing">HSDT-Lightning</a></strong></td>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/US3RN-testing">US3RN-Testing</a></strong></td>
       <td>Implementation of the US3RN model to carry out super resolution of hyperspectral image for FINCH satellite of UofT Aerospace Team. </td>
       <td>
         <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=flat-square&logo=pytorch&logoColor=white"/>
