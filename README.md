@@ -20,9 +20,9 @@
 ### 👋 Hey — I’m Kevin (aka *Kyaw Thiha*)
 I do cool projects. Wanna know more? <br/>
 Feel free to explore around!
-- 🤖 ROS2 + robotics workflows
-- 🧠 Computer vision / ML experimentation
-- 🗒️ Neovim-centric dev environment on Arch + Hyprland
+- 🤖 Robotics
+- 🧠 Computer vision / ML
+- 🗒️ Neovim-centric dev on Arch + Hyprland
 
 ---
 
@@ -38,11 +38,11 @@ Feel free to explore around!
   <a href="https://github.com/Kyaw-Thiha/hsi-viz">
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=hsi-viz&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
+  <a href="https://github.com/Kyaw-Thiha/animal-vision">
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=animal-vision&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
+  </a>
   <a href="https://github.com/Kyaw-Thiha/ros-workspace">
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ros-workspace&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/Kyaw-Thiha/UTRAHacks-2025-Website">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=US3RN-testing&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kyaw-Thiha/ace-grader">
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyaw-Thiha&repo=ace-grader&theme=tokyonight&hide_border=true&border_radius=12&bg_color=00000000" />
@@ -74,6 +74,16 @@ Feel free to explore around!
         <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=flat-square&logo=pytorch&logoColor=white"/>
         <img src="https://img.shields.io/badge/Lightning-bb9af7?style=flat-square&logo=lightning&logoColor=white"/>
         <img src="https://img.shields.io/badge/HSI-c0caf5?style=flat-square"/>
+      </td>
+    </tr>
+    <!-- Animal Vision -->
+    <tr>
+      <td><strong><a href="https://github.com/Kyaw-Thiha/animal-vision">Animal Vision</a></strong></td>
+      <td>This is an app that allows user to visualize how different animals see using a combination of machine learning & mathematical models. </td>
+      <td>
+        <img src="https://img.shields.io/badge/OpenCV-5b9cf6?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-7aa2f7?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Color_Science-9d7cd8?style=flat-square"/>
       </td>
     </tr>
     <!-- US3RN Testing -->
