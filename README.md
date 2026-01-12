@@ -22,7 +22,7 @@ I do cool projects. Wanna know more? <br/>
 Feel free to explore around!
 - 🤖 Robotics
 - 🧠 Computer vision / ML
-- 🗒️ Neovim-centric dev on Arch + Hyprland
+- 🗒️ Neovim dev on Arch + Hyprland
 
 ---
 
